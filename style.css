@@ -39,3 +39,22 @@
     cursor: pointer;
 
 }
+.inputBox{
+    position: relative;
+    width: 67%;
+    min-width: 500px;
+    min-height: 150px;
+    background: #fff;
+    color: #333;
+    margin: 20px 0;
+    outline: none;
+    padding: 20px;
+    border-radius: 5px;
+}
+.inputBox img{
+    width: 25px;
+    position: absolute;
+    bottom: 25px;
+    right: 15px;
+    cursor: pointer;
+}
